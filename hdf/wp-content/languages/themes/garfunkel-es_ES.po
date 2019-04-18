@@ -1,0 +1,389 @@
+# Translation of Themes - Garfunkel in Spanish (Spain)
+# This file is distributed under the same license as the Themes - Garfunkel package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-10-05 09:43:09+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: es\n"
+"Project-Id-Version: Themes - Garfunkel\n"
+
+#. Description of the plugin/theme
+msgid "Garfunkel is a stylish and responsive Pinterest-style theme with Masonry layout. It features responsive and retina-ready design, support for six post formats (including a gallery slideshow), six custom widgets, two page templates, Jetpack Infinite Scroll support, editor styling and translation-ready code. Demo: http://www.andersnoren.se/themes/garfunkel/"
+msgstr "Garfunkel es un tema elegante y adaptable al estilo de Pinterest con una estructura de cuadrícula irregular. Cuenta con un diseño adaptable y listo para retina, soporte para seis formatos de publicación (incluida una presentación de diapositivas de galería), seis widgets personalizados, dos plantillas de página, soporte para Jetpack Infinite Scroll, editor de estilos y código listo para su traducción. Demo: http://www.andersnoren.se/themes/garfunkel/"
+
+#. Theme Name of the plugin/theme
+msgid "Garfunkel"
+msgstr "Garfunkel"
+
+#: widgets/recent-comments.php:54
+msgctxt "Variables: post title, date"
+msgid "Comment to %s, posted %s"
+msgstr "Comentario en %s, publicado el %s"
+
+#: single.php:343
+msgctxt "Variables: date and post title"
+msgid "Posted on %s to %s"
+msgstr "Publicado el %s en %s"
+
+#: single.php:319
+msgid "Comments by %s"
+msgstr "Comentarios por %s"
+
+#: single.php:267
+msgid "Posts by %s"
+msgstr "Entradas por %s"
+
+#: single.php:221 single.php:392
+msgid "Next post: \"%s\""
+msgstr "Próxima entrada: \"%s\""
+
+#: single.php:211 single.php:382
+msgid "Previous post: \"%s\""
+msgstr "Entrada anterior: \"%s\""
+
+#: search.php:9
+msgid "Search results: \"%s\""
+msgstr "Resultados de la búsqueda: \"%s\""
+
+#: header.php:85
+msgid "Click to view the navigation"
+msgstr "Haz clic para ver la navegación"
+
+#: functions.php:411
+msgid "%s comments to %s"
+msgstr "%s comentarios en %s"
+
+#: comments.php:43
+msgid "%s Pingback"
+msgid_plural "%s Pingbacks"
+msgstr[0] "%s pingback"
+msgstr[1] "%s pingbacks"
+
+#: comments.php:17
+msgid "%s Comment"
+msgid_plural "%s Comments"
+msgstr[0] "%s comentario"
+msgstr[1] "%s comentarios"
+
+#: widgets/search-form.php:10
+msgid "Search Form"
+msgstr "Formulario de búsqueda"
+
+#: widgets/recent-posts.php:10
+msgid "Recent Posts"
+msgstr "Mensajes recientes"
+
+#: widgets/dribbble-widget.php:11
+msgid "Dribbble Widget"
+msgstr "Widget de Dribbble"
+
+#: widgets/flickr-widget.php:10
+msgid "Flickr Widget"
+msgstr "Widget de Flickr"
+
+#: widgets/flickr-widget.php:84
+msgid "Number of images to display"
+msgstr "Número de imágenes a mostrar"
+
+#: widgets/recent-comments.php:10
+msgid "Recent Comments"
+msgstr "Comentarios recientes"
+
+#. Template Name of the plugin/theme
+msgid "Full width template"
+msgstr "Plantilla a pantalla completa"
+
+#. Template Name of the plugin/theme
+msgid "Archive template"
+msgstr "Plantilla de archivo"
+
+#: widgets/search-form.php:8
+msgid "Displays a search form."
+msgstr "Mostrar un formulario de búsqueda."
+
+#: widgets/recent-posts.php:150
+msgid "Number of posts to display:"
+msgstr "Número de entradas a mostrar:"
+
+#: widgets/recent-posts.php:8
+msgid "Displays recent blog entries."
+msgstr "Muestra las entradas de blog recientes."
+
+#: widgets/recent-comments.php:112 widgets/recent-posts.php:152
+msgid "Defaults to 5 if empty"
+msgstr "Si está vacío, el valor por defecto es 5"
+
+#: widgets/recent-comments.php:110
+msgid "Number of comments to display:"
+msgstr "Número de comentarios a mostrar:"
+
+#: widgets/recent-comments.php:105
+msgid "Title:"
+msgstr "Título:"
+
+#: widgets/recent-comments.php:8
+msgid "Displays recent comments with user avatars."
+msgstr "Muestra comentarios recientes con los avatares de los usuarios."
+
+#: widgets/flickr-widget.php:78
+msgid "Flickr ID (use <a target=\"_blank\" href=\"http://www.idgettr.com\">idGettr</a>)"
+msgstr "ID de Flickr (utiliza <a target=\"_blank\" href=\"http://www.idgettr.com\">idGettr</a>)"
+
+#: widgets/flickr-widget.php:8
+msgid "Displays your latest Flickr photos."
+msgstr "Muestra tus últimas fotos en Flickr."
+
+#: widgets/dribbble-widget.php:92
+msgid "Number of images to display:"
+msgstr "Número de imágenes a mostrar:"
+
+#: widgets/dribbble-widget.php:86
+msgid "Dribbble username"
+msgstr "Nombre de usuario de Dribbble"
+
+#: widgets/dribbble-widget.php:80 widgets/flickr-widget.php:72
+#: widgets/recent-posts.php:145 widgets/search-form.php:50
+msgid "Title"
+msgstr "Título"
+
+#: widgets/dribbble-widget.php:10
+msgid "Displays your latest Dribbble photos."
+msgstr "Muestra tus últimas fotos en Dribbble."
+
+#: template-archives.php:126
+msgid "Archives by Day"
+msgstr "Archivo diario"
+
+#: template-archives.php:120
+msgid "Archives by Month"
+msgstr "Archivo mensual"
+
+#: template-archives.php:114
+msgid "Archives by Year"
+msgstr "Archivo anual"
+
+#: template-archives.php:108
+msgid "Contributors"
+msgstr "Contribuidores"
+
+#: template-archives.php:98
+msgid "View all posts in %s"
+msgstr "Ver todas las entradas en %s"
+
+#: template-archives.php:89
+msgid "Archives by Tags"
+msgstr "Archivos por etiquetas"
+
+#: template-archives.php:83
+msgid "Archives by Categories"
+msgstr "Archivos por categorías"
+
+#: template-archives.php:63
+msgid "All Posts"
+msgstr "Todas las entradas"
+
+#: single.php:222 single.php:393
+msgid "Next post"
+msgstr "Entrada siguiente"
+
+#: single.php:212 single.php:383
+msgid "Previous post"
+msgstr "Entrada anterior"
+
+#: single.php:166
+msgid "Author info"
+msgstr "Información del  Autor"
+
+#: single.php:160
+msgid "Post info"
+msgstr "Información de la entrada"
+
+#: single.php:154
+msgid "Comments"
+msgstr "Comentarios"
+
+#: single.php:131
+msgid "Pages:"
+msgstr "Páginas:"
+
+#: searchform.php:3
+msgid "Search form"
+msgstr "Formulario de búsqueda"
+
+#: search.php:47
+msgid "No results. Try again, would you kindly?"
+msgstr "No hay resultados. Puedes intentarlo de nuevo."
+
+#: index.php:17
+msgid "Page %s of %s"
+msgstr "Página %s de %s"
+
+#: image.php:55 page.php:77 single.php:405 template-archives.php:164
+#: template-fullwidth.php:87
+msgid "We couldn't find any posts that matched your query. Please try again."
+msgstr "No hemos encontrado ninguna entrada relacionada con tu búsqueda. Por favor, inténtalo de nuevo."
+
+#: header.php:99
+msgid "Close"
+msgstr "Cerrar"
+
+#: header.php:98
+msgid "Menu"
+msgstr "Menú"
+
+#: functions.php:615
+msgid "Accent Color"
+msgstr "Color de énfasis"
+
+#: functions.php:587 functions.php:623
+msgid "Logo"
+msgstr "Logo"
+
+#: functions.php:582
+msgid "Allows you to customize settings for Garfunkel."
+msgstr "Te permite personalizar los ajustes de Garfunkel."
+
+#: functions.php:579
+msgid "Garfunkel Options"
+msgstr "Opciones de Garfunkel"
+
+#: functions.php:547
+msgid "Reply"
+msgstr "Responder"
+
+#: functions.php:530
+msgid "Awaiting moderation"
+msgstr "Esperando moderación"
+
+#: functions.php:500 functions.php:540 page.php:49 single.php:107
+#: template-archives.php:57 template-fullwidth.php:57
+msgid "Edit"
+msgstr "Editar"
+
+#: functions.php:500
+msgid "Pingback:"
+msgstr "Pingback: "
+
+#: functions.php:156
+msgid "Widgets in this area will be shown in the right column in the footer  of single posts and pages."
+msgstr "Widgets en este área serán mostrados en la columna derecha del pie de página de las entradas individuales y las páginas."
+
+#: functions.php:154
+msgid "Footer C"
+msgstr "Pie de Página C"
+
+#: functions.php:146
+msgid "Widgets in this area will be shown in the middle column in the footer  of single posts and pages."
+msgstr "Widgets en este área serán mostrados en la columna del medio del pie de página de las entradas individuales y las páginas."
+
+#: functions.php:144
+msgid "Footer B"
+msgstr "Pie de Página B"
+
+#: functions.php:136
+msgid "Widgets in this area will be shown in the left column in the footer of single posts and pages."
+msgstr "Widgets en este área serán mostrados en la columna izquierda del pie de página de las entradas individuales y las páginas."
+
+#: functions.php:134
+msgid "Footer A"
+msgstr "Pie de Página A"
+
+#: functions.php:47
+msgid "Social Menu"
+msgstr "Menú Social"
+
+#: functions.php:46
+msgid "Primary Menu"
+msgstr "Menú principal"
+
+#: footer.php:3
+msgid "Theme by"
+msgstr "Tema de"
+
+#: content-image.php:9
+msgid "Sticky post"
+msgstr "Entrada fija"
+
+#: comments.php:86
+msgid "Comment"
+msgstr "Comentario"
+
+#: comments.php:82
+msgid "Your email address will not be published."
+msgstr "Tu dirección de correo electrónico no será publicada."
+
+#: comments.php:75
+msgid "Comments are closed."
+msgstr "Los comentarios están cerrados."
+
+#: comments.php:63
+msgid "Newer Comments"
+msgstr "Comentarios más recientes"
+
+#: comments.php:61
+msgid "Older Comments"
+msgstr "Comentarios anteriores"
+
+#: comments.php:23
+msgid "Add yours"
+msgstr "Añade el tuyo "
+
+#: archive.php:61 index.php:51 search.php:33
+msgid "Newer posts"
+msgstr "Artículos siguientes"
+
+#: archive.php:59 index.php:49 search.php:31
+msgid "Older posts"
+msgstr "Artículos antiguos"
+
+#: archive.php:29
+msgid "Archive"
+msgstr "Archivo"
+
+#: archive.php:26
+msgid "Author:"
+msgstr "Autor:"
+
+#: archive.php:22
+msgid "Tag:"
+msgstr "Etiquetas: "
+
+#: archive.php:19
+msgid "Category:"
+msgstr "Categoría:"
+
+#: archive.php:16
+msgid "Year:"
+msgstr "Año:"
+
+#: archive.php:13
+msgid "Month:"
+msgstr "Mes: "
+
+#: archive.php:10
+msgid "Date:"
+msgstr "Fecha:"
+
+#: 404.php:21
+msgid "It seems like you have tried to open a page that doesn't exist. It could have been deleted, moved, or it never existed at all. You are welcome to search for what you are looking for with the form below."
+msgstr "Parece que has intentado abrir una página que no existe, o tal vez,  haya sido borrada o movida. Puede que encuentres lo que buscas usando el formulario de abajo."
+
+#: 404.php:15
+msgid "Error 404"
+msgstr "Error 404 "
+
+#. Author URI of the plugin/theme
+msgid "http://www.andersnoren.se"
+msgstr "http://www.andersnoren.se"
+
+#. Author of the plugin/theme
+msgid "Anders Norén"
+msgstr "Anders Norén"
+
+#. Theme URI of the plugin/theme
+msgid "http://www.andersnoren.se/teman/garfunkel-wordpress-theme/"
+msgstr "http://www.andersnoren.se/teman/garfunkel-wordpress-theme/"
